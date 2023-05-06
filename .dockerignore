@@ -1,0 +1,15 @@
+## Directories
+docs/
+logs/
+.idea/
+.gradle/
+build/
+
+## Files
+.gitignore
+HELP.md
+README.md
+
+## Secrets
+*.env
+src/main/resources/application.yml
